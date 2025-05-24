@@ -1,5 +1,5 @@
 # Bangla News Article Classification
-
+[Documentation](https://drive.google.com/file/d/1V3aPWrFe8x2uyxQdZfenYAxX-uGiY_rG/view?usp=sharing)
 ## Overview
 This project focuses on the development of a Machine Learning (ML)-based system for classifying Bengali news articles into predefined categories. The classification system addresses the unique linguistic characteristics of the Bengali language and aims to improve information retrieval, content recommendation, and automated content analysis.
 
